@@ -1,0 +1,3 @@
+sudo updatedb
+
+locate updatedb
